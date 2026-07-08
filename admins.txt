@@ -1,17 +1,27 @@
 [OWNER]
-29barra29
-Ghosty_04
+
 
 [HEADMOD]
-HeadModName
+
 
 [MOD]
-Mod1
-Mod2
+DerBarra
+Ghosty_04
+Flexy The Blue
+Berlin ElCativo
+AozoYoru
+DieDrache
+Itania
+alex28_NL
+Josh2727
+
 
 [SUPPORTER]
-Sup1
-Sup2
+Camanay
+Pikabean
+Mlss_Mia
+ManuRex0512
+SKylinAlina19
 
 [MASKOTTCHEN]
-M1
+Karlchen12
