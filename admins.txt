@@ -1,15 +1,13 @@
 [OWNER]
-
-
-[HEADMOD]
-
-
-[MOD]
 DerBarra
 Ghosty_04
-Flexy The Blue
+
+[HEADMOD]
+_Flexy_
 Berlin ElCativo
 AozoYoru
+
+[MOD]
 DieDrache
 Itania
 alex28_NL
@@ -19,6 +17,8 @@ Mlss_Mia
 LeahRex0512
 
 [SUPPORTER]
+LeahRex0512
+Karlchen12
 
 [MASKOTTCHEN]
-Karlchen12
+
