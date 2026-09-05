@@ -5,7 +5,6 @@ Ghosty_04
 [HEADMOD]
 _Flexy_
 Berlin ElCativo
-AozoYoru
 
 [MOD]
 DieDrache
@@ -20,7 +19,6 @@ LeahRex0512
 Karlchen12
 ameisne231
 Elden_Wing1997
-
 
 [MASKOTTCHEN]
 
